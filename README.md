@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shanmugasundaram</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<a href="https://ibb.co/Km5jkdp"><img src="https://i.ibb.co/GFdvLy4/White-and-Black-Modern-Laptop-Unboxing-Youtube-Thumbnail.jpg" alt="White-and-Black-Modern-Laptop-Unboxing-Youtube-Thumbnail" border="0"></a>
+<a href="https://ibb.co/Km5jkdp"><img src="https://i.ibb.co/GFdvLy4/White-and-Black-Modern-Laptop-Unboxing-Youtube-Thumbnail.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmugamsham&label=Profile%20views&color=0e75b6&style=flat" alt="shanmugamsham" /> </p>
 
