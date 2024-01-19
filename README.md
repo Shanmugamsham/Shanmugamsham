@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shanmugasundaram</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<a href="https://ibb.co/tHhRBVK"><img src="https://i.ibb.co/QJc09yQ/Blue-And-Green-Professional-Technology-Linked-In-Banner-3.jpg" alt="Blue-And-Green-Professional-Technology-Linked-In-Banner-3" border="0"></a>
+<img src="https://ibb.co/tHhRBVK"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmugamsham&label=Profile%20views&color=0e75b6&style=flat" alt="shanmugamsham" /> </p>
 
